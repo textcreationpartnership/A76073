@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from William Basill Esq; Attorney-General of Ireland, to the Honorable, William Lenthall Esq; speaker of the Parliament of England, concerning a great victory obtained by the Parliaments forces against the rebels in Meleek Island, on the five and twentieth of October, 1650. Together with an order of Parliament for a publique thanksgiving within the City of London and liberties thereof, on the next Lords-Day, being the first of Decemb. 1650. Die Martis, 26 Novembr. 1650. Ordered by the Parliament, that this letter and order be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Basill, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76073</idno>
+            <idno type="STC">Wing B1027</idno>
+            <idno type="STC">Thomason E618_3</idno>
+            <idno type="STC">ESTC R206347</idno>
+            <idno type="EEBO-CITATION">99865513</idno>
+            <idno type="PROQUEST">99865513</idno>
+            <idno type="VID">165769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E618[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from William Basill Esq; Attorney-General of Ireland, to the Honorable, William Lenthall Esq; speaker of the Parliament of England, concerning a great victory obtained by the Parliaments forces against the rebels in Meleek Island, on the five and twentieth of October, 1650. Together with an order of Parliament for a publique thanksgiving within the City of London and liberties thereof, on the next Lords-Day, being the first of Decemb. 1650. Die Martis, 26 Novembr. 1650. Ordered by the Parliament, that this letter and order be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Basill, William.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165769:1" rendition="simple:additions"/>
+            <p>A LETTER From <hi>William Baſill</hi> Eſq; Attorney-General of IRELAND, TO The Honorable, <hi>William Lenthall</hi> Eſq; Speaker of the Parliament of <hi>England,</hi> Concerning a Great VICTORY Obtained by the Parliaments Forces AGAINST The Rebels in <hi>Meleek</hi> Iſland, On the Five and twentieth of <hi>October,</hi> 1650.</p>
+            <p>Together with an Order of Parliament for a pub<g ref="char:EOLhyphen"/>lique Thankſgiving within the City of <hi>London</hi> and Li<g ref="char:EOLhyphen"/>berties thereof, on the next Lords-Day, being the Firſt of <hi>Decemb.</hi> 1650.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Martis, 26 Novembr. 1650.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Parliament, That this Letter and Order be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>John Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165769:2"/>
+            <pb n="3" facs="tcp:165769:2"/>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>YOur Honor may pleaſe to underſtand, That upon the Sixth of <hi>October</hi> laſt, Colonel <hi>Axtel</hi> Governor of <hi>Kilkenny,</hi> drew what forces could well be ſpared out of this place and other adjacent Gariſons, <hi>viz.</hi> Eight hundred Horſe and Foot, and marched toward the Kings County, both to ſupply and ſettle our Gariſons in thoſe parts, lying upon the Shannon ſide; and be<g ref="char:EOLhyphen"/>ing Frontiers upon the Enemy, as alſo to put them into a tenable and defenſive poſture, as well to pre<g ref="char:EOLhyphen"/>vent the Enemy from Quartering there, as to ſe<g ref="char:EOLhyphen"/>cure our own Quarters from their Incurſions. Be<g ref="char:EOLhyphen"/>fore he came thither, he had certain Intelligence, That upon our Northern Forces drawing them<g ref="char:EOLhyphen"/>ſelves from <hi>Athlone,</hi> the Enemy in <hi>Connaught</hi> ta<g ref="char:EOLhyphen"/>king that advantage, came over the Shannon Ri<g ref="char:EOLhyphen"/>ver, their number was Three thouſand Foot, and about Three hundred Horſe, all under the command of <hi>Clanrickard</hi> (whom <hi>Ormond</hi> hath lately made his Deputy) and had Beſieged <hi>Kilkolgan</hi> a Gariſon of ours; and the night before had taken <hi>Forbawn</hi>-Caſtle, being one other of our Gariſons, which blockt up a Paſs, which is an Inlet to <hi>Kilkolgan;</hi> Colonel <hi>Axtel</hi> with a ſmall Body faced the Paſs, and drew back his main Body to attempt another Paſs, whi<g ref="char:EOLhyphen"/>ther when he came, he found it ſtrongly fortified with Breaſtworks, and Mann'd with Horſe and Foot;
+<pb n="4" facs="tcp:165769:3"/>beſide, there was a deep River (though but nar<g ref="char:EOLhyphen"/>row) between him and the Enemy: They had an hours Diſpute, each being drawn up in full Bodies on either ſide the River: There were killed of the Enemy One hundred and fifty Horſe and Foot; we onely loſt one Lieutenant, and had not above five or ſix common Soldiers wounded. In reſpect of the depth of the water and ſteepneſs of the Banks, ours could not get over, but retreated about half a Mile, to invite the Enemy to draw over into a Champion ground, but they declined it. Imme<g ref="char:EOLhyphen"/>diately upon this, there came an additional ſtrength to the Enemy; for yong <hi>Preſton,</hi> with thoſe which marched out of <hi>Waterford</hi> with him, and others whom he had raiſed ſince, together with Iriſh For<g ref="char:EOLhyphen"/>ces out of <hi>Conaught,</hi> conjoyned with the Enemy, ſo that in all they were in number upward of Four thouſand Foot and Five hundred Horſe. They marched with their whole Body over the <hi>Forbawn</hi> River, and came within two miles of <hi>Berr,</hi> a Ga<g ref="char:EOLhyphen"/>riſon of ours, wherein two great Battering Guns were lodged, Colonel <hi>Axtel</hi> not thinking it fit to engage ſo great a Body with ſo ſmall a party, re<g ref="char:EOLhyphen"/>treated into <hi>Oſſory,</hi> both to procure a conjunction with more Forces, and a further ſupply of provi<g ref="char:EOLhyphen"/>ſion. In the interim the Enemy ſummoned <hi>Berr,</hi> and took in three of our Gariſons near thereunto, <hi>viz. Cary Caſtle, Streamſtown Caſtle,</hi> and <hi>Clogan;</hi> Colonel <hi>Axtel</hi> being conjoyned at <hi>Roſcrea</hi> with an additional ſtrength out of the counties of <hi>Tipperary</hi> and <hi>Wexford</hi> (who for that purpoſe had notice to Rendezvouz at <hi>Roſcrea,</hi> upon the One and twen<g ref="char:EOLhyphen"/>tieth
+<pb n="5" facs="tcp:165769:3"/>of <hi>October</hi>) in all conſiſting of Thirteen hun<g ref="char:EOLhyphen"/>dred Foot, and One thouſand Horſe and Dragoons, advanced toward <hi>Berr;</hi> whereupon the Enemy raiſed their Camp, and retreated to <hi>Meleek</hi> Iſland, bordering upon the Shannon, into which there is onely one Paſs, with Bogs on each ſide; and that was alſo fortified in three ſeveral places, one behinde another, as Reſerves to each other, which were all to be forced, before any entry could be obtained in<g ref="char:EOLhyphen"/>to the Iſland. Upon the Five and twentieth of <hi>October,</hi> half an hour before night, our Forces made an attempt upon the Enemy, and after a ſmall Diſ<g ref="char:EOLhyphen"/>pute beat them off from the firſt and ſecond guard on the Paſs; but at the third the Diſpute was ſo hot, that they came to But-end of Musket, and God being pleaſed to give our Forces an entrance into the Iſland, the whole Body of the Enemy was preſently Routed: They left all their Arms, we took Two hundred of their Horſe, all their Wag<g ref="char:EOLhyphen"/>gons, Oxen, Tents, Proviſions, and whatſoever elſe they had in their whole Camp; among which were <hi>Clanrickards</hi> own Waggons and Tent (he himſelf the day before having gone over the Shannon, to give order for the reſt of his Forces to march to<g ref="char:EOLhyphen"/>ward <hi>Limbrick</hi>) being confident that the Army which he had left in the Kings County, together with thoſe whom he expected would have gathered to their aſſiſtance, would have been able to carry all before them in theſe parts. The number of what Men the Enemy loſt, is not certainly known; for beſide thoſe who were killed, Multitudes were drowned: Five hundred of them were forced into
+<pb n="6" facs="tcp:165769:4"/>the Shannon by one party of our Horſe in one place, and there were all drowned in one company toge<g ref="char:EOLhyphen"/>ther. The Iriſh Report, That there was not above Three hundred of the Enemy which eſcaped, and that moſt of thoſe were ſuch as ſwam over the Shan<g ref="char:EOLhyphen"/>non: which agrees with the Relation of a Trum<g ref="char:EOLhyphen"/>peter, who was the next day ſent by their Major General <hi>Taaff,</hi> to enquire after priſoners, who con<g ref="char:EOLhyphen"/>feſſed that all but Three hundred were loſt; we loſt onely one Captain, <hi>viz.</hi> Captain <hi>Goff,</hi> with Eight common Soldiers and twenty wounded. The next day the Enemy quitted all the before mentioned Gariſons taken from us, fired them, and fled away into <hi>Conaught.</hi> This being done, Colonel <hi>Axtel</hi> on Friday laſt, being the Firſt of <hi>November</hi> inſtant, with part of the Forces returned to this place (theſe parts being much infeſted in his abſence with a party of Horſe and Foot, conſiſting of about Five hun<g ref="char:EOLhyphen"/>dred, under the command of <hi>Dungan, Pierce Rea</hi> and <hi>Cavanagh</hi>) and the ſame night with a party of Horſe and Foot drew out toward <hi>Thomaſtown,</hi> where he heard the Enemies laſt mentioned Forces were gathered together, being about Seven Miles diſtant from this place; the other part of the Forces marched out of Kings County unto my Lord De<g ref="char:EOLhyphen"/>puty, who hath beſieged the Caſtle of <hi>Nenagh</hi> in <hi>Lower: Ormond</hi> about four Miles from the Shan<g ref="char:EOLhyphen"/>non, having drawn off the Forces from before <hi>Lim<g ref="char:EOLhyphen"/>brick,</hi> the unſeaſonableneſs of the Weather not ad<g ref="char:EOLhyphen"/>mitting our Army to lie in the field ſo long as the gaining of a place of ſo great ſtrength will require. I have not elſe at preſent to trouble your Honor
+<pb n="8" facs="tcp:165769:4"/>withal, onely to let your Honor know, That the late ſad Viſitation of Sickneſs, want of Clothes, cold and wet Weather, and Hard Duty, have weakened our Army; and therefore humbly offer unto your Ho<g ref="char:EOLhyphen"/>nors conſideration, the Neceſſity of ſending Re<g ref="char:EOLhyphen"/>cruits of Horſe and Foot, and of having a provi<g ref="char:EOLhyphen"/>ſion of Money here by the beginning of <hi>March,</hi> whereby the Army may be (with the firſt ſeaſon of the year) enabled to take the field for <hi>Conaught.</hi> I humbly crave your Honors pardon for this bold<g ref="char:EOLhyphen"/>neſs of,</p>
+            <closer>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>4 <hi>Nov.</hi> 1650.</date>
+               </dateline>
+               <salute>Right Honorable,</salute> 
+               <signed>Your Honors moſt humble Servant, <hi>William Baſill.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Since writing, News is come, That</hi> Nenagh <hi>Caſtle is Surrendred; and that my Lord Deputy will ſuddenly take up his Winters-quarters in the City.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="Parliamentary_resolution">
+            <pb n="8" facs="tcp:165769:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 26 Novembr. 1650.</date>
+               </dateline>
+            </opener>
+            <p>Reſolved by the Parliament,</p>
+            <p>THat publique Thanks be given by the reſpective Mini<g ref="char:EOLhyphen"/>ſters in the ſeveral Pariſh Churches, Chappels and Places of Publique Worſhip within the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and Liberties thereof, and within the late Lines of Communication, on the next Lords day, being the firſt day of <hi>December, 1650.</hi> for Gods great mercy in giving a Signal and Seaſonable Victory to the Parliaments Forces in <hi>Ireland,</hi> againſt the bloody Rebels there, on the Five and twentieth of <hi>October</hi> laſt, and mentioned in this Letter: And it is Ordered, That the Lord Major of <hi>London</hi> do take care that timely no<g ref="char:EOLhyphen"/>tice hereof be given to the Miniſters of the ſeveral Pariſhes within the ſaid City of <hi>London</hi> and Liberties thereof; And that the reſpective Juſtices of Peace within the late Lines of Communication, do take care that timely notice hereof be given to the Miniſters of their ſeveral and respective Pa<g ref="char:EOLhyphen"/>riſhes within the ſaid late Lines of Communication.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
